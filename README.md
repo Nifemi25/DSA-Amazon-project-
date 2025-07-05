@@ -25,7 +25,8 @@ This project focuses on analyzing Amazon product data using Excel tools like Pow
 
 ### Analysis
 
-![image](https://github.com/user-attachments/assets/6b8c151c-6cc2-4126-8950-edc87c798ddb) 
+ ![Amazon Dashbord](https://github.com/user-attachments/assets/8a86309f-1f9b-42c0-a088-b90cac4759b2)
+
 
 
 [Download Here](https://github.com/Nifemi25/DSA-Amazon-project-/raw/refs/heads/main/Amazon%20Odunayo.xlsx)
