@@ -24,3 +24,8 @@ This project focuses on analyzing Amazon product data using Excel tools like Pow
    Designed an interactive and visually appealing Excel dashboard     Added:     Charts (bar, pie, cluster column ) for key insights     Shapes and icons for structure and emphasis     Images (e.g., product or Amazon logo)     Color fills and consistent theme for a clean layout
 
 ### Analysis
+
+![image](https://github.com/user-attachments/assets/6b8c151c-6cc2-4126-8950-edc87c798ddb) 
+
+
+[Download Here](
