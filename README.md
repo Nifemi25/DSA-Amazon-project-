@@ -1,10 +1,10 @@
 # DSA-Amazon-project-
-This project features an interactive and visually appealing Excel dashboard that summarizes key insights from an Amazon product dataset. The dashboard provides a comprehensive and overview of product performance and customer behaviour  using clear visual storytelling. 
+This project featured an interactive and visually appealing Excel dashboard that summarizes key insights from an Amazon product dataset. The dashboard provides a comprehensive and overview of product performance and customer behaviour  using clear visual storytelling. 
 
 ## Project Topic: Amazon Product Review Analysis 
 
 ### Project Overview:  
-This project focuses on analyzing Amazon product data using Excel tools like Power Query Editor, Pivot Tables, and Dashboarding. The goal was to clean, analyze, and visualize key insights regarding  customer reviews, discount percentage, product ratings, and pricing data. This project provides a comprehensive understanding of how various factors affect product performance and customer satisfaction on the Amazon marketplace.  
+This project focused on analyzing Amazon product data using Excel tools like Power Query Editor, Pivot Tables, and Dashboarding. The goal was to clean, analyze, and visualize key insights regarding  customer reviews, discount percentage, product ratings, and pricing data. This project provides a comprehensive understanding of how various factors affect product performance and customer satisfaction on the Amazon marketplace.  
 
 ### Tools Used     
 - Excel Power Query Editor     
