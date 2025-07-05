@@ -9,7 +9,7 @@ This project focused on analyzing Amazon product data using Excel tools like Pow
 ### Tools Used     
 - Excel Power Query Editor     
 - Pivot Tables     
-- Excel Formulas (IF, COUNTIF, SUM, AVERAGE)     
+- Excel Formulas (IF, SUM, AVERAGE)     
 - Charts & Shapes     
 - Dashboard Design Tools
 
@@ -30,7 +30,6 @@ This project focused on analyzing Amazon product data using Excel tools like Pow
    Designed an interactive and visually appealing Excel dashboard
    Added:   Charts (bar, pie, cluster column ) for key insights
    Shapes and icons for structure and emphasis
-   Images (e.g., product or Amazon logo)
    Color fills and consistent theme for a clean layout
 
 ### Analysis
